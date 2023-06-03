@@ -1,0 +1,23 @@
+/*Element selector*/
+h1{
+    text-align: center;
+}
+
+/*Id selector*/
+#para{
+    color: green;
+}
+
+/*class selector*/
+.paraClass{
+    background-color: aqua;
+}
+
+/*Group selector*/
+h1,article{
+    color:red;
+}
+
+p.tClass{
+    color:dodgerblue
+}
